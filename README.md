@@ -4,10 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafiya-zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiya zafar" height="30" width="40" /></a>
-<a href="https://instagram.com/rafiya_zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafiya_zafar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rafiya_zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafiya_zafar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/fiyazafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="fiyazafar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fiyazafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fiyazafar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
