@@ -109,5 +109,5 @@
 <ul>
   <li><a href="https://github.com/rafiyazafar/toilify" target="_blank">Toilify: Revolutionizing Global Sanitation.</a></li>
   <li><a href="https://github.com/rafiyazafar/golf-rush" target="_blank">Golf Rush: Created a 9-hole 2D golf game with Pygame featuring realistic physics and challenging levels.</a></li>
-  <li><a href="https://github.com/rafiyazafar/Face-Mask-Detection" target="_blank">Face Mask Detection: - Built a system to accurately detect face masks using Faster R-CNN and PyTorch.</a></li>
+  <li><a href="https://github.com/rafiyazafar/Face-Mask-Detection" target="_blank">Face Mask Detection: Built a system to accurately detect face masks using Faster R-CNN and PyTorch.</a></li>
 </ul>
